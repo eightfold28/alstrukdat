@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1441190513 source:c:\users\user\desktop\septia\praktikum1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"point.h"
+
+1441190613 source:c:\users\user\desktop\septia\praktikum1\point.c
+	"point.h"
+	"boolean.h"
+	<assert.h>
+	<stdio.h>
+	<math.h>
+
+1441091448 c:\users\user\desktop\septia\praktikum1\point.h
+	"boolean.h"
+	<assert.h>
+	<stdio.h>
+	<math.h>
+
+1441106686 c:\users\user\desktop\septia\praktikum1\boolean.h
+
+1441245367 source:c:\users\user\desktop\septia\praktikum alstruk\praktikum1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"point.h"
+
+1441091448 c:\users\user\desktop\septia\praktikum alstruk\praktikum1\point.h
+	"boolean.h"
+	<assert.h>
+	<stdio.h>
+	<math.h>
+
+1441242893 c:\users\user\desktop\septia\praktikum alstruk\praktikum1\boolean.h
+
+1441244346 source:c:\users\user\desktop\septia\praktikum alstruk\praktikum1\point.c
+	"point.h"
+	"boolean.h"
+	<assert.h>
+	<stdio.h>
+	<math.h>
+
+1441246035 source:c:\users\user\desktop\septia\praktikum alstruk\praktikum1\cobain.c
+	<stdio.h>
+	<stdlib.h>
+	"point.h"
+
